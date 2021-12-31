@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c29f927-2257-4722-a7db-d0b2aeebf4c2": {
+      "ProjectGuid": "1c29f927-2257-4722-a7db-d0b2aeebf4c2",
+      "DisplayName": "Todo.Domain.Api",
+      "ColorIndex": 0
+    },
+    "717cae86-7cde-4241-8fdb-37dbbf29e80f": {
+      "ProjectGuid": "717cae86-7cde-4241-8fdb-37dbbf29e80f",
+      "DisplayName": "Todo.Domain.Tests",
+      "ColorIndex": 1
+    },
+    "da2a6184-90e5-49db-984f-f733975058ad": {
+      "ProjectGuid": "da2a6184-90e5-49db-984f-f733975058ad",
+      "DisplayName": "Todo.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "574f1737-4bf5-40d7-85c2-8e78b8c0b48d": {
+      "ProjectGuid": "574f1737-4bf5-40d7-85c2-8e78b8c0b48d",
+      "DisplayName": "Todo.Domain.Infra",
+      "ColorIndex": 3
+    },
+    "d8899649-5398-48a4-931e-08cc611b6077": {
+      "ProjectGuid": "d8899649-5398-48a4-931e-08cc611b6077",
+      "DisplayName": "Todo.Domain.Api",
+      "ColorIndex": 4
+    },
+    "209bfc37-cd30-4a4d-8d67-ed975c73bb6d": {
+      "ProjectGuid": "209bfc37-cd30-4a4d-8d67-ed975c73bb6d",
+      "DisplayName": "Todo.Domain.Api",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
